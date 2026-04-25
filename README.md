@@ -1,5 +1,3 @@
-readme_pozos = """# 🛢️ Análisis de Rentabilidad y Riesgo: Nuevos Pozos Petroleros - OilyGiant
-
 ## 📋 Descripción del Proyecto
 Este proyecto utiliza técnicas de **Machine Learning** y **análisis estadístico** para identificar la región más rentable para la apertura de 200 nuevos pozos petroleros para la compañía **OilyGiant**. El desafío principal radica en maximizar el beneficio neto mientras se mantiene el riesgo de pérdidas por debajo del **2.5%**.
 
@@ -33,8 +31,6 @@ Este proyecto utiliza técnicas de **Machine Learning** y **análisis estadísti
 ---
 
 ### 🚀 Resultados Clave
-* **Región Seleccionada:** [Completar con tu región ganadora, ej: Región 1]
-* **Beneficio Promedio Estimado:** [Completar con tu resultado]
 * **Evaluación de Riesgo:** Se logró identificar una región con un riesgo de pérdida inferior al **2.5%**, cumpliendo con los requisitos de negocio.
 
 ---
